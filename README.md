@@ -2,6 +2,17 @@
 
 Blockchain Links and Reference
 
+## Blockchain Apps & Smart Contracts - Concepts, Library and Patterns
+
+* [Smart Contract Patterns](https://github.com/cjgdev/smart-contract-patterns) - 
+  design patterns for smart contracts
+* [(Not So) Smart Contracts](https://github.com/trailofbits/not-so-smart-contracts) -
+  examples of smart contract security issues
+* [Oraclize Tutorial](https://github.com/johnhckuo/Oraclize-Tutorial) - 
+  a tutorial for Oraclize which serves as a data carrier for decentralized apps
+* [OpenZeppelin Solidity](https://github.com/ConsenSys/real-estate-standards/tree/master/node_modules/openzeppelin-solidity) - 
+  a library for writing secure Smart Contracts on Ethereum
+
 ## Technical Reports
 
 * [BlockChain Technology, Beyond Bitcoin, TR, University of Berkley, October 2015](https://scet.berkeley.edu/wp-content/uploads/BlockchainPaper.pdf)
